@@ -1,6 +1,6 @@
 ---
 layout: page
-title: About the Theme
+title: Contact Me
 tags: [about, Jekyll, theme, JBlog]
 date: 2016-03-21
 ---
@@ -15,9 +15,6 @@ date: 2016-03-21
  </section>
 
 <!-- Latest Post Preview End -->
-
- <!doctype html>
-<html lang="en">
 
 <body>
   <h2 class="content-head is-center">Request A Custom Woodburning!</h2>
