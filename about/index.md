@@ -72,3 +72,12 @@ date: 2016-03-21
 <!-- END -->
 
 </body>
+
+
+<style>
+  
+  body {
+   background-image: url("../assets/img/wood.jpg");
+}
+  
+</style>
