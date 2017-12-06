@@ -43,7 +43,7 @@ date: 2016-03-21
     <fieldset class="container">
       <label for="email">Your Email Address:</label>
       <input id="email" name="email" type="email" value=""
-      required placeholder="your.name@email.com"/>
+      required placeholder="youremail@email.com"/>
       <span id="email-invalid" style="visibility:hidden">
         Must be a valid email address</span>
     </fieldset>
